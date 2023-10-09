@@ -74,31 +74,6 @@ const config: (
       hideSubNav: true,
       items: [
         {
-          label: t('Info'),
-          href: '/info',
-        },
-        {
-          label: t('IFO'),
-          href: '/ifo',
-          supportChainIds: SUPPORT_ONLY_BSC,
-          image: '/images/ifos/ifo-bunny.png',
-        },
-        {
-          label: t('Voting'),
-          href: '/voting',
-          supportChainIds: SUPPORT_ONLY_BSC,
-          image: '/images/voting/voting-bunny.png',
-        },
-        {
-          type: DropdownMenuItemType.DIVIDER,
-        },
-        {
-          label: t('Leaderboard'),
-          href: '/teams',
-          supportChainIds: SUPPORT_ONLY_BSC,
-          image: '/images/decorations/leaderboard.png',
-        },
-        {
           type: DropdownMenuItemType.DIVIDER,
         },
         {

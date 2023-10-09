@@ -11,6 +11,14 @@
   "keywords": ["pancake", "default"],
   "tokens": [
     {
+      "name": "Polygon MATIC",
+      "symbol": "MATIC",
+      "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://s3.coinmarketcap.com/static-gravity/image/b8db9a2ac5004c1685a39728cdf4e100.png"
+    },
+    {
       "name": "Wrapped BNB",
       "symbol": "WBNB",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
